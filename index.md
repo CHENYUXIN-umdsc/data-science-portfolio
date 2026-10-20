@@ -14,4 +14,5 @@ I am a Master's student in Data Strategy and Compliance Management. Welcome to m
 *   **Key Findings**: Discovered a widening "scissors gap" in Macau's market and successfully rendered complex GeoJSON geometries into readable maps.
 *   **Project Status**: Completed
 *   **Link**:https://github.com/CHENYUXIN-umdsc/data-science-project
+
 **Step by step to get prepped — one project at a time, building depth in data science.**
